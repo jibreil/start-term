@@ -1,62 +1,62 @@
 [
     {
         "pid": "1",
-        "cat": "Entertain",
-        "site": "Youtube",
-        "url": "https://www.youtube.com/feed/subscriptions"
+        "cat": "Work",
+        "site": "Inbox",
+        "url": "https://inbox.google.com/"
     },
     {
         "pid": "2",
-        "cat": "Entertain",
-        "site": "Lifehacker",
-        "url": "http://www.lifehacker.com"
+        "cat": "Work",
+        "site": "Google Keep",
+        "url": "https://keep.google.com/"
     },
     {
         "pid": "3",
-        "cat": "Entertain",
-        "site": "Netflix",
-        "url": "http://www.netflix.com/WiHome"
+        "cat": "Work",
+        "site": "Google Drive",
+        "url": "https://drive.google.com/"
     },
     {
         "pid": "4",
-        "cat": "Entertain",
-        "site": "IceFilms",
-        "url": "http://www.icefilms.info/index"
+        "cat": "Work",
+        "site": "Google Calendar",
+        "url": "https://calendar.google.com/"
     },
     {
         "pid": "5",
-        "cat": "Files",
-        "site": "Dropbox",
-        "url": "https://www.dropbox.com"
+        "cat": "Entertainment",
+        "site": "YouTube",
+        "url": "https://www.youtube.com/feed/subscriptions"
     },
     {
         "pid": "6",
-        "cat": "Files",
-        "site": "Google Drive",
-        "url": "https://drive.google.com"
+        "cat": "Programming",
+        "site": "GitHub",
+        "url": "https://github.com/"
     },
     {
         "pid": "7",
-        "cat": "Files",
-        "site": "One Drive",
-        "url": "https://onedrive.live.com"
+        "cat": "Reddit",
+        "site": "/r/all",
+        "url": "https://www.reddit.com/r/all/"
     },
     {
         "pid": "8",
         "cat": "Reddit",
-        "site": "/r/videos/",
-        "url": "https://www.reddit.com/r/videos/"
+        "site": "/r/pcmasterrace",
+        "url": "https://www.reddit.com/r/pcmasterrace/"
     },
     {
         "pid": "9",
         "cat": "Reddit",
-        "site": "/r/funny/",
-        "url": "https://www.reddit.com/r/funny/"
+        "site": "/r/mechanicalkeyboards",
+        "url": "https://www.reddit.com/r/mechanicalkeyboards/"
     },
     {
         "pid": "10",
         "cat": "Reddit",
-        "site": "/r/raspberry_pi/",
+        "site": "/r/raspberry_pi",
         "url": "http://www.reddit.com/r/raspberry_pi/"
     }
 ]

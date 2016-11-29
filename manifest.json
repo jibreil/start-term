@@ -1,7 +1,7 @@
 {
   "name": "Start Terminal",
   "description": "Override the new tab page",
-  "version": "0.31",
+  "version": "0.4",
   "chrome_url_overrides": {
     "newtab": "index.html"
   },
