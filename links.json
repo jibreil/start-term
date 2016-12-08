@@ -37,26 +37,26 @@
     },
     {
         "pid": "7",
-        "cat": "Reddit",
-        "site": "/r/all",
-        "url": "https://www.reddit.com/r/all/"
+        "cat": "Shopping",
+        "site": "eBay",
+        "url": "http://www.ebay.com.au/"
     },
     {
         "pid": "8",
-        "cat": "Reddit",
-        "site": "/r/pcmasterrace",
-        "url": "https://www.reddit.com/r/pcmasterrace/"
+        "cat": "Shopping",
+        "site": "Gumtree",
+        "url": "http://www.gumtree.com.au/"
     },
     {
         "pid": "9",
-        "cat": "Reddit",
-        "site": "/r/mechanicalkeyboards",
-        "url": "https://www.reddit.com/r/mechanicalkeyboards/"
+        "cat": "Other",
+        "site": "PCPartPicker",
+        "url": "http://au.pcpartpicker.com/list/"
     },
     {
         "pid": "10",
-        "cat": "Reddit",
-        "site": "/r/raspberry_pi",
-        "url": "http://www.reddit.com/r/raspberry_pi/"
+        "cat": "Other",
+        "site": "jibreil.xyz",
+        "url": "https://jibreil.xyz/"
     }
 ]
